@@ -99,8 +99,9 @@ If you want to improve these projects or add new ideas:
 👉🏻Create a new branch
 👉🏻Submit a pull request 🚀
 
-📄 License
-All projects are open-source under the MIT License.
+📄 ## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
 
 👨‍💻 Author
 Developed by Your Name during the CodSoft Internship
