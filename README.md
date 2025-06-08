@@ -54,5 +54,85 @@ A fun CLI-based game to play Rock-Paper-Scissors against the computer.
 ---
 
 ## 📁 Project Structure
+CodSoft-Python-Projects/
+├── calculator_codesoft.py
+├── codesoft_contact_book.py
+├── python_codesoft_gen_pwd.py
+├── python_todo_Codsoft.py
+├── rock_paper-scissor.py
+├── README.md
+└── assets/ # (optional screenshots)
+
+
+---
+
+## 📦 Requirements
+
+All projects use only built-in libraries:
+
+```bash
+Python 3.6 or above
+
+
+🧠 Skills Demonstrated
+GUI Programming with Tkinter
+
+--> Python file handling
+--> Randomization and logic building
+--> Simple game mechanics
+--> Beginner-level OOP structure
+
+
+🚀 Getting Started
+Clone this repo:
+
+git clone https://github.com/your-username/codsoft-python-projects.git
+cd codsoft-python-projects
+
+Run any project:
+python calculator_codesoft.py
+
+🙌 Contribution
+If you want to improve these projects or add new ideas:
+
+👉🏻Fork the repo
+👉🏻Create a new branch
+👉🏻Submit a pull request 🚀
+
+📄 License
+All projects are open-source under the MIT License.
+
+👨‍💻 Author
+Developed by Your Name during the CodSoft Internship
+
+
+---
+
+Let me know if you’d like:
+- Auto-generated `LICENSE` or `.gitignore`
+- Screenshots/mockups for the GUI apps (`assets/*.png`)
+- Markdown badges for GitHub profile highlighting
+
+I can generate visuals or polish it even more!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
