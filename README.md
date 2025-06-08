@@ -1,4 +1,4 @@
-# Codsoft
+## Codsoft
 # 🎯 CodSoft Python Projects
 
 A curated collection of beginner-friendly Python applications built as part of the **CodSoft Internship**.  
